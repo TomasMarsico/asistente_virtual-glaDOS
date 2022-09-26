@@ -1,0 +1,34 @@
+﻿<Window x:Class="glaDOS2.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:glaDOS2"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800" AllowsTransparency="True" WindowStyle="None" Background="{x:Null}" ShowInTaskbar="False">
+    <Grid Margin="-198,0,-323,-461">
+        <Grid Margin="198,-34,316,34">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="225*"/>
+                <ColumnDefinition Width="361*"/>
+                <ColumnDefinition Width="214*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="223*"/>
+                <RowDefinition Height="2*"/>
+            </Grid.RowDefinitions>
+            <Rectangle Fill="Black" HorizontalAlignment="Left" Height="343" Margin="40,74,0,0" Stroke="Black" VerticalAlignment="Top" Width="697" Grid.ColumnSpan="3"/>
+            <Rectangle Fill="#FF4D2204" HorizontalAlignment="Left" Height="338" Margin="64,57,0,0" Stroke="Black" VerticalAlignment="Top" Width="699" Grid.ColumnSpan="3" RenderTransformOrigin="0.529,0.499"/>
+            <DockPanel HorizontalAlignment="Left" Height="28" LastChildFill="False" VerticalAlignment="Top" Width="697" Background="Black" Grid.ColumnSpan="3" Margin="64,56,0,0" MouseLeftButtonDown="DockPanel_MouseLeftButtonDown"/>
+            <Image HorizontalAlignment="Left" Height="26" Margin="105,57,0,0" VerticalAlignment="Top" Width="26" Source="i.png" Cursor="Hand" Grid.Column="2" MouseLeftButtonDown="Image_MouseLeftButtonDown_1"/>
+            <Image HorizontalAlignment="Left" Height="26" Margin="146,57,0,0" VerticalAlignment="Top" Width="26" Source="x.png" Cursor="Hand" Grid.Column="2" MouseLeftButtonDown="Image_MouseLeftButtonDown"/>
+            <Button Content="Ventilador" HorizontalAlignment="Left" Height="90" Margin="161,122,0,0" VerticalAlignment="Top" Width="182" Background="#FF09A5AC" FontSize="24" Click="Button_Click" Grid.ColumnSpan="2"/>
+            <Button Content="Leds" HorizontalAlignment="Left" Height="89" Margin="246,123,0,0" VerticalAlignment="Top" Width="182" FontSize="24" Background="#FFD3A91B" Grid.ColumnSpan="2" Grid.Column="1" Click="Button_Click_1"/>
+            <Button Content="Luz" HorizontalAlignment="Left" Height="89" Margin="161,270,0,0" VerticalAlignment="Top" Width="182" FontSize="24" Grid.ColumnSpan="2"/>
+            <Button Content="Proximamente.." HorizontalAlignment="Left" Height="89" Margin="246,270,0,0" VerticalAlignment="Top" Width="182" FontSize="24" Background="#FF49473F" Grid.ColumnSpan="2" Grid.Column="1"/>
+
+        </Grid>
+        <Label Content="Menú Arduino
+               " Height="33" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FF4D2204" FontSize="16" Margin="260,21,941,0"/>
+    </Grid>
+</Window>

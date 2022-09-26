@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="glaDOS2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NombreU" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tronax</Value>
+    </Setting>
+    <Setting Name="NombreA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Escarlata</Value>
+    </Setting>
+    <Setting Name="Voz" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Microsoft David Desktop</Value>
+    </Setting>
+    <Setting Name="Opacidad" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="Confidencia" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.4</Value>
+    </Setting>
+    <Setting Name="CodigoC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ARBA0009</Value>
+    </Setting>
+    <Setting Name="sdsd" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="mnB" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="arB" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="asiB" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,32 @@
+﻿Hola
+Como estás?
+Abre el Google
+Abre el Instagram
+Abre el YouTube
+Desactivar microfono
+Activar microfono
+Prender luces en rojo
+Prender luces en azul
+Prender luces en verde
+Cerrar aplicación
+Apagar luces
+Si
+No
+Abre el Clima
+Queres un mate?
+Como te llamas?
+Prender luces en violeta
+Apagar ventilador
+Prender ventilador
+Prender luces en amarillo
+Prender luces en rosa
+Prender luces en blanco
+Prender luces en celeste
+Prender luces en naranja
+Prender luz de techo uno
+Prender luz de techo dos
+Prender luz de techo tres
+Apagar luz de techo
+Prender estands
+Apagar estands
+Prender modo fiesta

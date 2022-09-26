@@ -1,0 +1,21 @@
+﻿<Window x:Class="glaDOS2.Carga"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:glaDOS2"
+        mc:Ignorable="d"
+        Title="Carga" Height="315.577" Width="211.314" Background="{x:Null}" Foreground="Black" AllowsTransparency="True" WindowStyle="None" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded_1" ShowInTaskbar="False" Icon="icono_xgw_icon.ico">
+    <Grid Margin="0,0,0,10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="201*"/>
+        </Grid.RowDefinitions>
+        <ProgressBar x:Name="Barrita1" HorizontalAlignment="Left" Height="16" Margin="3,78,0,0" VerticalAlignment="Top" Width="179" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="Black" Value="85" Grid.Row="1"/>
+
+        <Image HorizontalAlignment="Left" Height="192" Margin="3,79,0,0" VerticalAlignment="Top" Width="184" Source="Sin título-2.png" Grid.Row="1"/>
+        <Image HorizontalAlignment="Left" Height="202" Margin="11,67,0,0" VerticalAlignment="Top" Width="194" Source="Sin título-1.png" Grid.Row="1"/>
+        <ProgressBar x:Name="Barrita2" HorizontalAlignment="Left" Height="16" Margin="11,67,0,0" VerticalAlignment="Top" Width="189" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="#FFFF7F27" Grid.Row="1" Value="102"/>
+
+    </Grid>
+</Window>

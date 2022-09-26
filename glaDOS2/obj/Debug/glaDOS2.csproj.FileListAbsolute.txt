@@ -1,0 +1,67 @@
+C:\Users\Marsico-PC\source\repos\glaDOS2\glaDOS2\bin\Debug\glaDOS2.exe.config
+C:\Users\Marsico-PC\source\repos\glaDOS2\glaDOS2\bin\Debug\glaDOS2.exe
+C:\Users\Marsico-PC\source\repos\glaDOS2\glaDOS2\bin\Debug\glaDOS2.pdb
+C:\Users\Marsico-PC\source\repos\glaDOS2\glaDOS2\obj\Debug\Asistente.g.cs
+C:\Users\Marsico-PC\source\repos\glaDOS2\glaDOS2\obj\Debug\Carga.g.cs
+C:\Users\Marsico-PC\source\repos\glaDOS2\glaDOS2\obj\Debug\MainWindow.g.cs
+C:\Users\Marsico-PC\source\repos\glaDOS2\glaDOS2\obj\Debug\App.g.cs
+C:\Users\Marsico-PC\source\repos\glaDOS2\glaDOS2\obj\Debug\glaDOS2_MarkupCompile.cache
+C:\Users\Marsico-PC\source\repos\glaDOS2\glaDOS2\obj\Debug\glaDOS2_MarkupCompile.lref
+C:\Users\Marsico-PC\source\repos\glaDOS2\glaDOS2\obj\Debug\Asistente.baml
+C:\Users\Marsico-PC\source\repos\glaDOS2\glaDOS2\obj\Debug\Carga.baml
+C:\Users\Marsico-PC\source\repos\glaDOS2\glaDOS2\obj\Debug\MainWindow.baml
+C:\Users\Marsico-PC\source\repos\glaDOS2\glaDOS2\obj\Debug\glaDOS2.g.resources
+C:\Users\Marsico-PC\source\repos\glaDOS2\glaDOS2\obj\Debug\glaDOS2.Properties.Resources.resources
+C:\Users\Marsico-PC\source\repos\glaDOS2\glaDOS2\obj\Debug\glaDOS2.csproj.GenerateResource.cache
+C:\Users\Marsico-PC\source\repos\glaDOS2\glaDOS2\obj\Debug\glaDOS2.csproj.CoreCompileInputs.cache
+C:\Users\Marsico-PC\source\repos\glaDOS2\glaDOS2\obj\Debug\glaDOS2.exe
+C:\Users\Marsico-PC\source\repos\glaDOS2\glaDOS2\obj\Debug\glaDOS2.pdb
+C:\Users\Marsico-PC\source\repos\glaDOS2\glaDOS2\obj\Debug\glaDOS2.csprojAssemblyReference.cache
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\bin\Debug\glaDOS2.exe.config
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\bin\Debug\glaDOS2.exe
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\bin\Debug\glaDOS2.pdb
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\glaDOS2.csprojAssemblyReference.cache
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\Asistente.g.cs
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\Carga.g.cs
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\MainWindow.g.cs
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\App.g.cs
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\glaDOS2_MarkupCompile.cache
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\glaDOS2_MarkupCompile.lref
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\Asistente.baml
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\Carga.baml
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\MainWindow.baml
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\glaDOS2.g.resources
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\glaDOS2.Properties.Resources.resources
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\glaDOS2.csproj.GenerateResource.cache
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\glaDOS2.csproj.CoreCompileInputs.cache
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\glaDOS2.exe
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\glaDOS2.pdb
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\Menu.g.cs
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\Ventilador.g.cs
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\Menu.baml
+C:\Users\Netbook-Marsico\Desktop\Colegio Nebook\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\Ventilador.baml
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\bin\Debug\glaDOS2.exe.config
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\bin\Debug\glaDOS2.exe
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\bin\Debug\glaDOS2.pdb
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\glaDOS2.csprojAssemblyReference.cache
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\Asistente.g.cs
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\Carga.g.cs
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\Leds.g.cs
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\MainWindow.g.cs
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\Menu.g.cs
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\Ventilador.g.cs
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\App.g.cs
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\glaDOS2_MarkupCompile.cache
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\glaDOS2_MarkupCompile.lref
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\Asistente.baml
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\Carga.baml
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\Leds.baml
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\MainWindow.baml
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\Menu.baml
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\Ventilador.baml
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\glaDOS2.g.resources
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\glaDOS2.Properties.Resources.resources
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\glaDOS2.csproj.GenerateResource.cache
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\glaDOS2.csproj.CoreCompileInputs.cache
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\glaDOS2.exe
+C:\Users\Marsico-PC\Desktop\Colegio Dekstop\Programacion 6to\glaDOS2\glaDOS2\obj\Debug\glaDOS2.pdb
